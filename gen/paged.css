@@ -1,0 +1,8 @@
+body {
+  image-resolution: 96dpi;
+}
+
+.book-body {
+  // override book-body settings on GitBook website
+  position: static;
+}
