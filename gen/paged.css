@@ -3,6 +3,6 @@ body {
 }
 
 .book-body {
-  // override book-body settings on GitBook website
+  /* override book-body settings on GitBook website */
   position: static;
 }
